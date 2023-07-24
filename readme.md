@@ -28,5 +28,5 @@
 ## 👨🏽‍💻 &nbsp;Social Links
 
 <a target="_blank" href="https://www.linkedin.com/in/cristian-henrique-760b73264/">
-  
+    <img align="left" alt="Linkedin" width="40px" src="https://github.com/chrissshenri/chrissshenri/blob/main/linkedin.svg" /> 
 </a>
