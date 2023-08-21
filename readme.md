@@ -1,19 +1,20 @@
 
-<h1 align="left">Hi, I'm Cristian Henrique</h1>
+<h1 align="left">Hi, Cris here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 
-<img align="right" src="https://github.com/rodbitu/rodbitu/blob/master/undraw_programming_2svr.svg" width="370"/>
 
 <br><br>
 
 - 🔥 Web Developer & graduate in System Analysis 
 
 - 👨‍💻 All of my projects are available at https://cristianhenrique.vercel.app/ 
-
-<br><br>
-<br><br>
 <br><br>
 
-## 🛠 &nbsp;Tech Stack that I Study and already have some Knowledge
+![Github Stats](https://github-readme-stats.vercel.app/api?username=chrissshenri&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissshenri&hide=TeX&layout=compact)
+
+<br><br>
+
+## 🛠💻 &nbsp;Technologies & Tools that I Study and already have some Knowledge
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -27,7 +28,7 @@
 
 <br><br>
 
-## 👨🏽‍💻 &nbsp;Social Links
+## 🚀 &nbsp;Social Links
 
 <a target="_blank" href="https://www.linkedin.com/in/cristian-henrique-760b73264/">
     <img align="left" alt="Linkedin" width="40px" src="https://github.com/chrissshenri/chrissshenri/blob/main/linkedin.svg" /> 
