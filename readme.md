@@ -1,9 +1,8 @@
 
 <h1 align="left">Hi, Cris here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 
-![header](https://github.com/chrissshenri/chrissshenri/assets/102925001/46d8ff5a-1011-4661-8fcf-50071edc75b0)
+![headerName](https://github.com/chrissshenri/chrissshenri/assets/102925001/18b555b8-cd3f-471a-b6fd-346ea1e89031)
 
-<br><br>
 
 - 🔥 Web Developer & graduate in System Analysis 
 
