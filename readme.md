@@ -10,8 +10,8 @@
 - 👨‍💻 All of my projects are available at https://cristianhenrique.vercel.app/ 
 <br><br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=chrissshenri&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissshenri&hide=TeX&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrissshenri&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissshenri&hide=TeX&layout=compact&theme=transparent)
 
 <br><br>
 
