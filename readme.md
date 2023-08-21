@@ -1,6 +1,7 @@
 
 <h1 align="left">Hi, Cris here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 
+![Comp-1-1](https://github.com/chrissshenri/chrissshenri/assets/102925001/edc51d94-b4e7-4df3-adf5-44f127e7c0e9)
 
 <br><br>
 
