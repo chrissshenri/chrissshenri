@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, Cris here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 
-![Sequence-01](https://github.com/chrissshenri/chrissshenri/assets/102925001/df94ab08-96ef-4232-a4fe-f364ccc5d1aa)
+![header](https://github.com/chrissshenri/chrissshenri/assets/102925001/46d8ff5a-1011-4661-8fcf-50071edc75b0)
 
 <br><br>
 
